@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/SwiftIQ/dashboard" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SwiftIQ/siq-visual" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\github" />
+    <option name="cloneParentDir" value="~\Documents\GitHub\" />
   </component>
 </application>
