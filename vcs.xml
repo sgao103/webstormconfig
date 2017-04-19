@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/sgao103/charts-test" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SwiftIQ/dashboard-v2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:/github" />
