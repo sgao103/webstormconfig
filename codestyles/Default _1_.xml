@@ -11,6 +11,9 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <TypeScriptCodeStyleSettings>
+    <option name="FIELD_PREFIX" value="" />
+  </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
