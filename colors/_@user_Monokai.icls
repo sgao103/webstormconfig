@@ -1,9 +1,10 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2016-12-30T10:33:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2016-12-30T13:34:16</property>
+    <property name="modified">2017-06-07T11:09:22</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="18" />
@@ -488,7 +489,12 @@
         <option name="FOREGROUND" value="e5e687" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
