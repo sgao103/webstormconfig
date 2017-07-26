@@ -10,20 +10,10 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
       <mask>*.m</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*t</mask>
-      <mask>*</mask>
       <mask>*t.ts</mask>
       <mask>*tts</mask>
       <mask>R</mask>
@@ -39,6 +29,16 @@
       <mask>t</mask>
       <mask>.ts</mask>
       <mask>ts</mask>
+      <mask>html</mask>
+      <mask>htm</mask>
+      <mask>ht</mask>
+      <mask>h</mask>
+      <mask>*</mask>
+      <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*t</mask>
       <mask>*ts</mask>
     </recentFileMasks>
   </component>
