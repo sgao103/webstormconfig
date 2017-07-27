@@ -4,12 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ts" />
+    <option name="FILE_MASK" value="*html" />
     <recentFileMasks>
       <mask>*.m</mask>
       <mask>*.</mask>
@@ -38,9 +36,9 @@
       <mask>*t</mask>
       <mask>*h</mask>
       <mask>*ht</mask>
-      <mask>*html</mask>
-      <mask>*</mask>
       <mask>*ts</mask>
+      <mask>*</mask>
+      <mask>*html</mask>
     </recentFileMasks>
   </component>
 </application>
