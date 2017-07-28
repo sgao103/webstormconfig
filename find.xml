@@ -33,11 +33,11 @@
       <mask>ht</mask>
       <mask>h</mask>
       <mask>*htm</mask>
-      <mask>*t</mask>
       <mask>*h</mask>
-      <mask>*ht</mask>
+      <mask>*t</mask>
       <mask>*ts</mask>
       <mask>*</mask>
+      <mask>*ht</mask>
       <mask>*html</mask>
     </recentFileMasks>
   </component>
