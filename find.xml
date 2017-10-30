@@ -29,13 +29,13 @@
       <mask>h</mask>
       <mask>*htm</mask>
       <mask>*h</mask>
+      <mask>*t</mask>
       <mask>*ht</mask>
       <mask>*html</mask>
+      <mask>*</mask>
+      <mask>*ts</mask>
       <mask>*scs</mask>
       <mask>*scss</mask>
-      <mask>*</mask>
-      <mask>*t</mask>
-      <mask>*ts</mask>
     </recentFileMasks>
   </component>
 </application>
