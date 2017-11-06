@@ -2,14 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*t.ts</mask>
-      <mask>*tts</mask>
       <mask>R</mask>
       <mask>Re</mask>
       <mask>Resu</mask>
@@ -27,15 +21,19 @@
       <mask>htm</mask>
       <mask>ht</mask>
       <mask>h</mask>
-      <mask>*htm</mask>
-      <mask>*h</mask>
       <mask>*t</mask>
-      <mask>*ht</mask>
       <mask>*ts</mask>
-      <mask>*scs</mask>
-      <mask>*scss</mask>
-      <mask>*</mask>
       <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*</mask>
+      <mask>*sc</mask>
+      <mask>*scs</mask>
+      <mask>.s</mask>
+      <mask>.scs</mask>
+      <mask>.scss</mask>
+      <mask>*scss</mask>
     </recentFileMasks>
   </component>
 </application>
