@@ -7,13 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ts" />
     <recentFileMasks>
-      <mask>R</mask>
-      <mask>Re</mask>
-      <mask>Resu</mask>
-      <mask>Result</mask>
-      <mask>ResultC</mask>
-      <mask>ResultCom</mask>
       <mask>ResultCompo</mask>
       <mask>*ResultComponent</mask>
       <mask>*.ResultComponent</mask>
@@ -31,11 +26,17 @@
       <mask>.scss</mask>
       <mask>*scss</mask>
       <mask>*scs</mask>
-      <mask>*</mask>
       <mask>*html</mask>
       <mask>*htm</mask>
       <mask>*ht</mask>
       <mask>*h</mask>
+      <mask>*servic</mask>
+      <mask>*</mask>
+      <mask>*s</mask>
+      <mask>*ser</mask>
+      <mask>*serv</mask>
+      <mask>*service</mask>
+      <mask>*service*</mask>
       <mask>*t</mask>
       <mask>*ts</mask>
     </recentFileMasks>
