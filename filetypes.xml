@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="visual-config.ts" type="PLAIN_TEXT" />
-      <mapping pattern="VisualizationConfig" type="TypeScript" />
-    </extensionMap>
-  </component>
-</application>
